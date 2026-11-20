@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/arXiv-forthcoming-b31b1b.svg" alt="arXiv: forthcoming">
+  <a href="https://arxiv.org/abs/2611.26216"><img src="https://img.shields.io/badge/arXiv-2611.26216-b31b1b.svg" alt="arXiv: 2611.26216"></a>
   <a href="https://www.alphaxiv.org/abs/2611.frontier-models-authorship-attribution"><img src="https://img.shields.io/badge/alphaXiv-paper-555555.svg" alt="alphaXiv paper"></a>
 </p>
 
